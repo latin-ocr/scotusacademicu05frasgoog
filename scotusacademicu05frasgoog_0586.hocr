@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scotusacademicu05frasgoog_0586.png"; bbox 0 0 769 1353; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 113 626 534 715">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 113 626 512 715">
+     <span class='ocr_line' id='line_1_1' title="bbox 113 626 479 692; baseline -0.003 -20"><span class='ocrx_word' id='word_1_1' title='bbox 113 626 479 692; x_wconf 53' lang='grc' dir='ltr'>ωἱῗ,.ςῖ“ἑ·,.ἑὶ..”ἓι;’ἐεᾎ“ω</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 113 674 534 715; baseline 0.008 -25.344"><span class='ocrx_word' id='word_1_2' title='bbox 113 674 275 714; x_wconf 37' lang='lat' dir='ltr'>{mmmmm</span> <span class='ocrx_word' id='word_1_3' title='bbox 271 677 334 691; x_wconf 70' lang='lat' dir='ltr'>mma·</span> <span class='ocrx_word' id='word_1_4' title='bbox 343 677 375 692; x_wconf 68' lang='lat' dir='ltr'>am</span> <span class='ocrx_word' id='word_1_5' title='bbox 393 675 534 715; x_wconf 38' lang='lat' dir='ltr'>wau-¹,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 113 915 512 990">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 113 915 512 990">
+     <span class='ocr_line' id='line_1_3' title="bbox 113 915 512 933; baseline 0 -3"><span class='ocrx_word' id='word_1_6' title='bbox 113 915 212 933; x_wconf 56' lang='lat' dir='ltr'>mma«,</span> <span class='ocrx_word' id='word_1_7' title='bbox 221 917 237 930; x_wconf 73' lang='lat' dir='ltr'>nu</span> <span class='ocrx_word' id='word_1_8' title='bbox 243 915 265 930; x_wconf 66' lang='grc' dir='ltr'>ιο.</span> <span class='ocrx_word' id='word_1_9' title='bbox 272 915 368 930; x_wconf 60' lang='lat' dir='ltr'>Andaka!</span> <span class='ocrx_word' id='word_1_10' title='bbox 373 915 430 930; x_wconf 67' lang='lat' dir='ltr'>Vama</span> <span class='ocrx_word' id='word_1_11' title='bbox 439 916 512 931; x_wconf 62' lang='lat' dir='ltr'>houm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 113 935 498 954; baseline 0 -4"><span class='ocrx_word' id='word_1_12' title='bbox 113 935 332 954; x_wconf 58' lang='lat' dir='ltr'>mnu-hum.</span> <span class='ocrx_word' id='word_1_13' title='bbox 341 935 498 954; x_wconf 58' lang='lat' dir='ltr'>quamne!-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 113 955 510 990; baseline 0 -20"><span class='ocrx_word' id='word_1_14' title='bbox 113 955 240 990; x_wconf 46' lang='lat' dir='ltr'>ffuubssffi</span> <span class='ocrx_word' id='word_1_15' title='bbox 249 955 510 974; x_wconf 60' lang='lat' dir='ltr'>Manu-ahmam</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 769 1353">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 769 1353">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 769 1353; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 769 1353; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
